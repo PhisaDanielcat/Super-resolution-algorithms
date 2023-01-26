@@ -3,6 +3,7 @@ import numpy as np
 import math
 from PIL import Image
 
+
 def S(x):
     x = np.abs(x)
     if 0 <= x < 1:
