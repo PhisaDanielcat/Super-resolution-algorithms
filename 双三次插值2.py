@@ -4,7 +4,7 @@ import math
 import sys, time
 import os
 
-
+ 
 # Interpolation kernel   插值内核
 def u(s, a):
     if (abs(s) >= 0) & (abs(s) <= 1):
