@@ -1,0 +1,9 @@
+lpips==0.1.4
+matplotlib==3.5.1
+natsort==8.1.0
+numpy==1.21.2
+opencv_python==4.5.5.62
+Pillow==9.4.0
+scikit_image==0.16.2
+skimage==0.0
+torch==1.10.2
